@@ -1,0 +1,2 @@
+# DispatchR
+MediatR messaging extension
